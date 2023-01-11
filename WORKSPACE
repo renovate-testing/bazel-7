@@ -21,12 +21,6 @@
 # )
 
 # container_pull(
-#   name="redmine5",
-#   registry="index.docker.io",
-#   repository="redmine",
-# )
-
-# container_pull(
 #   name="redmine4",
 #   registry="index.docker.io",
 #   repository="redmine",
@@ -34,8 +28,14 @@
 #   tag="5.0.1"
 # )
 
+# container_pull(
+#   name="redmine5",
+#   registry="index.docker.io",
+#   repository="redmine",
+# )
+
 container_pull(
-  name="redmine1",
+  name="redmine5",
   registry="index.docker.io",
   repository="redmine",
   digest="sha256:deadbeef",
