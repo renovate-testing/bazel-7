@@ -1,1 +1,1 @@
-FROM redmine:5.0.1@sha256:aac20cf437cb32b160a853b0abe3fb82b0ec91052ebe51eabc9a3474a34e5cc9
+FROM redmine:5.0.4@sha256:47a669deee43b5bf9881a6ee9b35185cd710b68bfaec59ea34485a2bf86d6975
