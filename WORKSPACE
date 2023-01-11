@@ -10,7 +10,7 @@ container_pull(
   name="redmine2",
   registry="index.docker.io",
   repository="redmine",
-  tag="5.0.1"
+  tag="5.0.4"
 )
 
 container_pull(
