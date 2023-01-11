@@ -30,6 +30,6 @@ container_pull(
   name="redmine4",
   registry="index.docker.io",
   repository="redmine",
-  digest="sha256:aac20c",
+  digest="sha256:0000000000000000000000000000000000000000000000000000000000000000",
   tag="5.0.1"
 )
